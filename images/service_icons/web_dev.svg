@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "fill-rule:evenodd;clip-rule:evenodd;fill:#BB5937;">
+	<!ENTITY st1 "opacity:0.3;">
+]>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="225px" height="225px" viewBox="0 0 225 225" style="enable-background:new 0 0 225 225;" xml:space="preserve">
+<g style="&st1;">
+	<g>
+		<path style="&st0;" d="M112.49,0C50.361,0-0.01,50.367-0.01,112.5c0,62.129,50.371,112.5,112.5,112.5s112.5-50.371,112.5-112.5
+			C224.99,50.367,174.619,0,112.49,0z M92.482,155.082L49.9,112.5l7.508-7.508l0.018,0.018l35.182-35.182l6.859,6.855
+			l-35.185,35.182l35.708,35.708L92.482,155.082z M131.33,155.082l-7.512-7.508l35.709-35.708l-35.186-35.182l6.859-6.855
+			l35.182,35.182l0.018-0.018l7.508,7.508L131.33,155.082z"/>
+	</g>
+</g>
+</svg>
