@@ -70,6 +70,10 @@ $(document).ready(function(){
 		$('.mgrid_4').each(function(){ 
 			$(this).find('.wpw').css('height', $(this).find('img:first').height()) 
 		});
+		$('.mgrid_4').promise().done(function () {
+			$(this).show();
+		});
+
 	});
 	
 	
