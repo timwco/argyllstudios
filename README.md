@@ -1,4 +1,4 @@
-argyllstudios
+Argyll Studios
 =============
 
-Argyll Studios Website
+Main Website
