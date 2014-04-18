@@ -2048,7 +2048,7 @@ i.sep {
 }
 
 #portfolioList .mgrid_4 .wpw {
-    height: 378px;
+    max-height: 378px;
 }
 
 /*
