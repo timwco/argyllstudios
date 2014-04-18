@@ -2038,13 +2038,17 @@ i.sep {
     transform: translateY(0);
   }
 }
-#portfolioList .mgrid_4 {
+#portfolioList {
     -webkit-animation-name: fadeInDown;
     animation-name: fadeInDown;
     -webkit-animation-duration: 2s;
     animation-duration: 2s;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
+}
+
+#portfolioList .mgrid_4 .wpw {
+    height: 378px;
 }
 
 /*

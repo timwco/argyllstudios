@@ -66,7 +66,7 @@ $(document).ready(function(){
 	}
 	
 	// Set Grid to Equal Heights
-	$(window).load(function() { 
+	/*$(window).load(function() { 
 		$('.mgrid_4').each(function(){ 
 			$(this).find('.wpw').css('height', $(this).find('img:first').height()) 
 		});
@@ -74,7 +74,7 @@ $(document).ready(function(){
 			$(this).show();
 		});
 
-	});
+	});*/
 	
 	
 	// Center Things
