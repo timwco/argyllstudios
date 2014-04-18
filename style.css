@@ -730,6 +730,14 @@ h1.fourofour {
     line-height:1.4em;
     margin:10px 0
 }
+#work_right .work_conts ul {
+    padding: 0 0 0 25px;
+}
+#work_right .work_conts ul li {
+    padding: 5px 0;
+}
+
+
 .workTop {
     font-family:adobe-caslon-pro;
     font-size:1.3em;
