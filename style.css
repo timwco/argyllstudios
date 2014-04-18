@@ -2055,6 +2055,15 @@ i.sep {
     animation-fill-mode: both;
 }
 
+.welcome_home, #welcomeHero {
+    -webkit-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
 .mgrid_4 .wpw {
     height: 378px;
 }
