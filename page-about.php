@@ -2,7 +2,11 @@
 
 
 	<div class="welcome welcome_about">
-		<h3>We craft custom-tailored websites, hand-stiched with precision. <a href="<?= contactLink('about_welcome') ?>">Schedule a fitting...</a></h3>
+		<?php if (have_posts()) : ?>
+			<?php while (have_posts()) : the_post(); ?>
+				<?php the_content(); ?>
+			<?php endwhile; ?>
+		<?php endif; ?>
 	</div>
 
 
