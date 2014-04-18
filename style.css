@@ -2048,7 +2048,7 @@ i.sep {
 }
 
 #portfolioList .mgrid_4 .wpw {
-    max-height: 378px;
+    height: 378px;
 }
 
 /*
@@ -2172,6 +2172,9 @@ i.sep {
     }
 }
 @media only screen and (min-width: 0px) and (max-width: 479px) {
+    #portfolioList .mgrid_4 .wpw {
+        height: 273px;
+    }
     .welcome h1 {
         font-size:1.9em;
         margin-bottom:25px;
