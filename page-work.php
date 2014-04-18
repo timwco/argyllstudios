@@ -12,7 +12,7 @@
 
 	<div class="tagline"><h4>Selected Work</h4></div>
 
-	<div class="work_rows">
+	<div class="work_rows" id="portfolioList">
 		<div class="mgrid_wrap">
 		<?php $loop = new WP_Query( array( 'post_type' => 'work', 'posts_per_page' => 150, 'orderby' => 'menu_order' ) ); ?>
 		<?php while ( $loop->have_posts() ) : $loop->the_post(); ?>

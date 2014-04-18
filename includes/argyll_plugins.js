@@ -15,8 +15,8 @@ window.log = function f(){ log.history = log.history || []; log.history.push(arg
  * jQuery Raptorize Plugin 1.0 - www.ZURB.com/playground
 */
 (function($){$.fn.raptorize=function(options){var defaults={enterOn:'click',delayTime:5000};var options=$.extend(defaults,options);return this.each(function(){var _this=$(this);var audioSupported=true;
-var raptorImageMarkup='<img id="elRaptor" style="display: none; z-index:999999;" src="http://argyllstudios.com/wp-content/themes/argyll/includes/raptor/raptor.png" />'
-var raptorAudioMarkup='<audio id="elRaptorShriek" preload="auto"><source src="http://argyllstudios.com/wp-content/themes/argyll/includes/raptor/raptor-sound.mp3" /><source src="http://argyllstudios.com/wp-content/themes/argyll/includes/raptor/raptor-sound.ogg" /></audio>';var locked=false;$('body').append(raptorImageMarkup);if(audioSupported){$('body').append(raptorAudioMarkup);}
+var raptorImageMarkup='<img id="elRaptor" style="display: none; z-index:999999;" src="http://argyllstudios.com/wp-content/themes/argyllstydios/includes/raptor/raptor.png" />'
+var raptorAudioMarkup='<audio id="elRaptorShriek" preload="auto"><source src="http://argyllstudios.com/wp-content/themes/argyllstudios/includes/raptor/raptor-sound.mp3" /><source src="http://argyllstudios.com/wp-content/themes/argyllstudios/includes/raptor/raptor-sound.ogg" /></audio>';var locked=false;$('body').append(raptorImageMarkup);if(audioSupported){$('body').append(raptorAudioMarkup);}
 var raptor=$('#elRaptor').css({"position":"fixed","bottom":"-700px","right":"0","display":"block"})
 function init(){locked=true;if(audioSupported){function playSound(){document.getElementById('elRaptorShriek').play();}
 playSound();}
