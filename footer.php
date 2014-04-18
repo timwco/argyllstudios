@@ -6,15 +6,8 @@
 
 <footer>
 	<div class="finner row">
-		<div class="grid_3 fg1">
-			<a href="<?= contactLink('footer') ?>">WORK WITH US ></a>
-		</div>
-		<div class="grid_5 fg2">
-			<a href="<?php echo get_settings('home'); ?>/category/client-resources/">CLIENT RESOURCES</a>
-			<!--<a target="_blank" href="http://argyllstudios.apollohq.com/">LOGIN</a>-->
-		</div>
-		<div class="grid_5 fg3">
-			inquire [at] argyllstudios.com &nbsp;&nbsp; <a href="http://twitter.com/argyllstudios">@argyllstudios</a>
+		<div class="grid_13 fg1">
+			<a href="<?= contactLink('footer') ?>">WORK WITH US</a>
 		</div>
 		<div class="grid_5 fg4 omega">
 			<div id="cpyright"><?php argyllText('copyright'); ?></div>
