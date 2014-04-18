@@ -2055,7 +2055,7 @@ i.sep {
     animation-fill-mode: both;
 }
 
-.welcome_home, #welcomeHero {
+.welcome_home {
     -webkit-animation-name: fadeInDown;
     animation-name: fadeInDown;
     -webkit-animation-duration: 2s;
