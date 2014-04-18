@@ -2038,8 +2038,7 @@ i.sep {
     transform: translateY(0);
   }
 }
-#portfolioList {
-    display: none;
+#portfolioList .mgrid_4 {
     -webkit-animation-name: fadeInDown;
     animation-name: fadeInDown;
     -webkit-animation-duration: 2s;
