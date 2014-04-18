@@ -2055,7 +2055,7 @@ i.sep {
     animation-fill-mode: both;
 }
 
-#portfolioList .mgrid_4 .wpw {
+.mgrid_4 .wpw {
     height: 378px;
 }
 
@@ -2180,7 +2180,7 @@ i.sep {
     }
 }
 @media only screen and (min-width: 0px) and (max-width: 479px) {
-    #portfolioList .mgrid_4 .wpw {
+    .mgrid_4 .wpw {
         height: 273px;
     }
     .welcome h1 {
