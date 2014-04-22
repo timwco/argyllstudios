@@ -19,7 +19,7 @@
 				<h3>Discover</h3>
 				<h6>Project Goals, Milestones</h6>
 				<p>
-					We find out what you are looking for and, more importanly, what you need. We do this by finding out about you, your company and the market you operate within. This is necesssary to ensure a successful project and helps determine our course of action.
+					We find out what you are looking for and, more importantly, what you need. We do this by finding out about you, your company and the market you operate within. This is necessary to ensure a successful project and helps determine our course of action.
 				</p>
 			</div>
 		</div>
@@ -51,7 +51,7 @@
 				<h3>Finalize</h3>
 				<h6>Fine Tune, Content Population</h6>
 				<p>
-					A few final adjustments are made and a review of the site is conducted to ensure that it is up to our high standards - both visually and with functionality. We then wset up a staging environment to allow for client review and content population. 
+					A few final adjustments are made and a review of the site is conducted to ensure that it is up to our high standards - both visually and with functionality. We then set up a staging environment to allow for client review and content population. 
 				</p>
 			</div>
 		</div>
